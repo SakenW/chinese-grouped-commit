@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文分组提交"
+  short_description: "完成一组即验证并中文提交，按已有授权推送 GitHub 并核验远端"
+  default_prompt: "使用 $chinese-grouped-commit 将已完成改动按行为分组、验证后即时中文提交，并按已有授权处理 GitHub 推送。"
